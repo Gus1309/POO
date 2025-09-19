@@ -1,0 +1,3 @@
+public enum Nivel {
+    PRIMARIO, SECUNDARIO, UNIVERSITARIO
+}
